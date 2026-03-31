@@ -4,7 +4,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     const config = {
-        totalImages: 23, 
+        totalImages: 22, 
         containerId: 'dynamic-gallery',
         prefix: 'acaa_img'
     };
